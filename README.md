@@ -122,7 +122,7 @@ The same problem in the imgQuadTree class was raised, but knowing the solution t
 
 # References
 
-- ICS202 slides
+- KFUPM ICS202 slides
 - Data Structure and algorithm textbook
 - https://stackoverflow.com/
 - https://stackedit.io/
